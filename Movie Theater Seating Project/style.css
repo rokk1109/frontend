@@ -44,11 +44,11 @@ body {
   border-top-right-radius: 10px;
 }
 
-.seat .selected {
+.selected {
   background-color: #6feaf6;
 }
 
-.seat .occupied {
+.occupied {
   background-color: #ffffff;
 }
 
